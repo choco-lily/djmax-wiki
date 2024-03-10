@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/djmax-wiki/static/css/main.40e1beba.css",
+    "main.js": "/djmax-wiki/static/js/main.6f901e93.js",
+    "static/js/453.93cfbf55.chunk.js": "/djmax-wiki/static/js/453.93cfbf55.chunk.js",
+    "index.html": "/djmax-wiki/index.html",
+    "main.40e1beba.css.map": "/djmax-wiki/static/css/main.40e1beba.css.map",
+    "main.6f901e93.js.map": "/djmax-wiki/static/js/main.6f901e93.js.map",
+    "453.93cfbf55.chunk.js.map": "/djmax-wiki/static/js/453.93cfbf55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40e1beba.css",
+    "static/js/main.6f901e93.js"
+  ]
+}
