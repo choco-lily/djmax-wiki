@@ -1,8 +1,6 @@
 import './css/App.css';
 import Container from 'react-bootstrap/Container'
-import Nav from 'react-bootstrap/Nav'
-import Navbar from 'react-bootstrap/NavBar'
-import NavDropdown from 'react-bootstrap/NavDropdown';
+import { Nav, Navbar, NavDropdown } from 'react-bootstrap'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Main from "./pages/main"
 import Songs from "./pages/songs"
